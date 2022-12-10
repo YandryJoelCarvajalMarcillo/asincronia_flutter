@@ -38,7 +38,7 @@ class Fordt extends State<dannaxe> {
               //Icono del boton
               child: IconButton(
                 icon: Icon(
-                  Icons.bolt,
+                  Icons.flash_on,
                   color: Colors.black,
                   size: 50.0,
                 ),

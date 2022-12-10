@@ -38,7 +38,7 @@ class Fordt extends State<indexes> {
               //Icono del boton
               child: IconButton(
                 icon: Icon(
-                  Icons.airport_shuttle,
+                  Icons.airport_shuttle_rounded,
                   color: Colors.black,
                   size: 50.0,
                 ),

@@ -38,7 +38,7 @@ class Fordt extends State<archi> {
               //Icono del boton 
               child: IconButton(
                 icon: Icon(
-                  Icons.directions_walk,
+                  Icons.directions_walk_outlined,
                   color: Colors.black,
                   size: 50.0,
                 ),
